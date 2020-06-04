@@ -1,13 +1,15 @@
-#  _{title}_
+#  _Triangle Tracker_
 
-#### _{brief desc}_
-##### __Created:__ 5/29/2020
-##### __Last Updated:__ 6/3/2020 
-##### By _**Tyson Lackey**_  
+#### _Determine the type of triangle from it's side lengths_
+##### __Created:__ 6/4/2020
+##### __Last Updated:__ 6/4/2020 
+##### By _**Tyson Lackey & David Cole**_  
 
 ## Description
 
-_{detailed desc}_
+_A simple form entry webpage where the user provides 3 numbers as lengths of a triangle
+the page evaluates if those 3 lengths can be used to make a triangle and what type of triangle 
+that would be. The entered lengths and triangle type are outputted after submission_
 
 ## Setup/Installation Requirements
 
@@ -23,20 +25,16 @@ _{detailed desc}_
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open via Bash/GitBash:
 
 1. Clone this repository onto your computer:
-    "git clone {github repo URL}"
-2. Navigate into the "{project name}" directory in Visual Studio Code or preferred text editor:
+    "git clone https://github.com/Lackeyt/Triangle-Tracker"
+2. Navigate into the "Triangle-tracker" directory in Visual Studio Code or preferred text editor:
 3. Open the projec
     "code ."
 3. Open index.html in your browser:
     "open index.html"
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View Directly in your Browser:
-
-* Navigate to {GH Pages URL} in your web browser.
-
 ## Known Bugs
 
-* n/a
+* Output of triangle type and entered lengths still run even if nothing is entered into a form after the error alert.
 
 ## Support and contact details
 
