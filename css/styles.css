@@ -1,3 +1,15 @@
 .btn {
   background-color: rgb(200, 200, 200);
 }
+
+.jumbotron {
+  text-align: center;
+}
+
+h3 {
+  font-size: 150%;
+}
+
+#lengthEntry {
+  margin-top: 10px;
+}
